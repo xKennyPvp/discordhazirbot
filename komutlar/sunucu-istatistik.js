@@ -52,7 +52,7 @@ module.exports.conf = {
 };
 
 module.exports.help = {
-  name: 'Sunucu İstatistik',
+  name: 'sunucu İstatistik',
   description: 'Bulunduğunuz Sunucu hakkında bilgi verir.',
   usage: 'sunucu'
 };
